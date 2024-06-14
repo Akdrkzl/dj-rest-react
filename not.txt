@@ -1,2 +1,0 @@
-http://127.0.0.1:8000/api/kullanici-olustur/ atılan istek başarılı kullanıcı oluşturuluyor extension olmadan yapıldı.
-path('api/dj-rest-auth/', include('dj_rest_auth.urls')), dj-rest-auth ile login logut işlemini yapıldı
