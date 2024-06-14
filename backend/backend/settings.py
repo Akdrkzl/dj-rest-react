@@ -45,7 +45,6 @@ INSTALLED_APPS = [
     'rest_framework.authtoken', #kimlik doğrulama tokeni(belirteç)
     'dj_rest_auth',
     'corsheaders',
-
 ]
 
 MIDDLEWARE = [
